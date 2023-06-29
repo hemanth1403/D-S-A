@@ -1,0 +1,1 @@
+{"name":"Local: NumEvenOddbit","url":"/Users/hemu/Code/DSA/NumEvenOddbit.cpp","tests":[{"id":1661527116208,"input":"2","output":"Number is Even"},{"id":1661527430702,"input":"1","output":"Number is Odd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hemu/Code/DSA/NumEvenOddbit.cpp","group":"local","local":true}

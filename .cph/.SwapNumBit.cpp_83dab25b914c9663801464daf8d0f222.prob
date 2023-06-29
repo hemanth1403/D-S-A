@@ -1,0 +1,1 @@
+{"name":"Local: SwapNumBit","url":"/Users/hemu/Code/DSA/SwapNumBit.cpp","tests":[{"id":1661527621976,"input":"2 3","output":"3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hemu/Code/DSA/SwapNumBit.cpp","group":"local","local":true}
